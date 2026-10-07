@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Cross-Dataset Generalisation of Lightweight Deep Learning Models for ECG Arrhythmia Classification"
+message: "If you use this software or the accompanying results in your research, please cite this work."
+type: software
+
+authors:
+  - family-names: "Thasneem"
+    given-names: "Fathima"
+
+repository-code: "https://github.com/FathimaThasneemm20/ecg-cross-dataset-generalization"
+
+abstract: >
+  Code, experimental configuration, results, and supplementary materials
+  for evaluating lightweight deep-learning models for ECG arrhythmia
+  classification under strict zero-shot cross-dataset evaluation.
+
+keywords:
+  - ECG
+  - arrhythmia classification
+  - deep learning
+  - cross-dataset generalisation
+  - domain shift
+  - lightweight neural networks
+  - zero-shot evaluation
+  - RR features
+
+license: MIT
