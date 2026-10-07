@@ -8,7 +8,7 @@ authors:
     given-names: "Fathima"
 
 repository-code: "https://github.com/FathimaThasneemm20/ecg-cross-dataset-generalization"
-
+doi: "10.5281/zenodo.23218694"
 abstract: >
   Code, experimental configuration, results, and supplementary materials
   for evaluating lightweight deep-learning models for ECG arrhythmia
