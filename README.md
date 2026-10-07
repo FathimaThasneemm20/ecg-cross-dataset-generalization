@@ -1,2 +1,2 @@
 # ecg-cross-dataset-generalization
-Code, experimental results, and reproducibility materials for cross-dataset generalization of lightweight deep learning models for ECG arrhythmia classification.
+Code, experimental configuration, results, and supplementary materials for cross-dataset generalisation of lightweight deep-learning models for ECG arrhythmia classification.
